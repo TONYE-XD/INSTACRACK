@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  ❤INSTACRACK❤
+❤INSTACRACK❤
 </h1>
 </div>
 <p align="center">
