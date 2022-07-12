@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  INSTACRACK
+  ❤INSTACRACK❤
 </h1>
 </div>
 <p align="center">
@@ -18,7 +18,7 @@
 
 #### Install script on Termux
 ```bash
-$ rm -rf CLONE
+$ rm -rf INSTACRACK
 $ git clone https://github.com/TONYE-XD/INSTACRACK
 ```
 #### Run script
